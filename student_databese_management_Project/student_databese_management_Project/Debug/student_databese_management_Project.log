@@ -1,0 +1,7 @@
+﻿  main.c
+C:\Users\mustafa.demir\Desktop\MUSTAFA\C\student_databese_management_Project\student_databese_management_Project\main.c(121,20): warning C4778: 'printf' : unterminated format string '%'
+C:\Users\mustafa.demir\Desktop\MUSTAFA\C\student_databese_management_Project\student_databese_management_Project\main.c(136,12): warning C4101: 'i': unreferenced local variable
+C:\Users\mustafa.demir\Desktop\MUSTAFA\C\student_databese_management_Project\student_databese_management_Project\main.c(136,9): warning C4101: 'n': unreferenced local variable
+C:\Users\mustafa.demir\Desktop\MUSTAFA\C\student_databese_management_Project\student_databese_management_Project\main.c(188,13): warning C4013: 'exit' undefined; assuming extern returning int
+C:\Users\mustafa.demir\Desktop\MUSTAFA\C\student_databese_management_Project\student_databese_management_Project\main.c(200,16): warning C4778: 'printf' : unterminated format string '%'
+  student_databese_management_Project.vcxproj -> C:\Users\mustafa.demir\Desktop\MUSTAFA\C\student_databese_management_Project\Debug\student_databese_management_Project.exe
